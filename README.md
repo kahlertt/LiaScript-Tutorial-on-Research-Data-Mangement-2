@@ -22,3 +22,24 @@ edit:     true
 # LiaScript-Tutorial-on-Research-Data-Mangement-2
 
 This is the second part of the Come2Data workshop
+
+## Was haben wir beim letzten Mal nicht geschafft?
+
+### Formeln
+
+### Fußnoten
+
+### Klassenräume
+
+#### Quizze
+
+#### Umfragen
+
+### Makros
+
+## Publizieren auf GitHub
+
+### GitHub & LiaScript
+
+### Automatisierung
+
