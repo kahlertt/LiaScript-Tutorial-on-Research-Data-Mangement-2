@@ -29,6 +29,8 @@ This is the second part of the Come2Data workshop
 
 ### Fußnoten
 
+Das ist ein Kommentar[^1]
+
 ### Klassenräume
 
 #### Quizze
